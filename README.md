@@ -2,7 +2,7 @@
 
 O jogo é um desafio de adivinhação numérica que testará sua capacidade de estimar valores dentro de um intervalo desconhecido. O jogador pode escolher entre dois modos de jogo: "Limite Desconhecido" ou "Valor Desconhecido".
 
-**Modo de Jogo - Limite Desconhecido**
+##Modo de Jogo - Limite Desconhecido##
 
 Neste modo de jogo, o jogador deve adivinhar um número dentro de um intervalo desconhecido. O jogo irá fornecer pistas sobre a posição do valor estimado em relação aos limites do intervalo. O jogador terá um total de 10 vidas para fazer as suposições.
 
